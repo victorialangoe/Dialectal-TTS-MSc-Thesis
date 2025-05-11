@@ -3,6 +3,8 @@
 This repository contains the code, data preparation scripts, and analysis notebooks used in my master's thesis on synthesizing Norwegian dialects using text-to-speech (TTS) systems.
 
 ## Repository Structure
+
+```text
 .
 ├── data_preprocessing/
 │   ├── change_sample_rate.py
@@ -18,7 +20,7 @@ This repository contains the code, data preparation scripts, and analysis notebo
 ├── survey_analysis.ipynb       # Quantitative analysis and graphs
 ├── qualitative_analysis.ipynb  # Qualitative analysis and graphs
 ├── synthesized_sentences/      # Audio output from models (example clips)
-└── README.md 
+└── README.md
 
 The forked repo's have changes in them where I have followed their tutorial on how to train models based on my own dataset.
 
