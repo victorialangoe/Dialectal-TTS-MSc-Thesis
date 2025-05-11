@@ -22,6 +22,8 @@ This repository contains the code, data preparation scripts, and analysis notebo
 ├── synthesized_sentences/      # Audio output from models (example clips)
 └── README.md
 
+```
+
 The forked repo's have changes in them where I have followed their tutorial on how to train models based on my own dataset.
 
 
